@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-22T20:03:17 IST" name="Suite" finished-at="2021-07-22T20:03:18 IST" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2021-07-22T20:03:17 IST" name="Test" finished-at="2021-07-22T20:03:18 IST" duration-ms="62">
+      <class name="MavenDemo.FirstMaven.AppiumTest">
+        <test-method signature="AppiumTest1()[pri:0, instance:MavenDemo.FirstMaven.AppiumTest@79ad8b2f]" started-at="2021-07-22T20:03:18 IST" name="AppiumTest1" finished-at="2021-07-22T20:03:18 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest1 -->
+        <test-method signature="AppiumTest2()[pri:0, instance:MavenDemo.FirstMaven.AppiumTest@79ad8b2f]" started-at="2021-07-22T20:03:18 IST" name="AppiumTest2" finished-at="2021-07-22T20:03:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest2 -->
+      </class> <!-- MavenDemo.FirstMaven.AppiumTest -->
+      <class name="MavenDemo.FirstMaven.RestAPITest">
+        <test-method signature="RestAPITest1()[pri:0, instance:MavenDemo.FirstMaven.RestAPITest@7f1302d6]" started-at="2021-07-22T20:03:18 IST" name="RestAPITest1" finished-at="2021-07-22T20:03:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest1 -->
+        <test-method signature="RestAPITest2()[pri:0, instance:MavenDemo.FirstMaven.RestAPITest@7f1302d6]" started-at="2021-07-22T20:03:18 IST" name="RestAPITest2" finished-at="2021-07-22T20:03:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest2 -->
+      </class> <!-- MavenDemo.FirstMaven.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
