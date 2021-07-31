@@ -7,6 +7,8 @@ public class SeleniumTest {
 	public void SeleniumTest1()
 	{
 		System.out.println("Selenium Test1...");
+		System.out.println("Selenium New...");
+		System.out.println("Selenium Updates");
 	}
 	@Test
 	public void SeleniumTest2()
